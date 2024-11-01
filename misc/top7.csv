@@ -1,0 +1,470 @@
+"Sample","Abundance","Type","Taxonomy","RelativeAbundance"
+"G1L",5475,"Glass","Candidatus Desulforudis",7.11038961038961
+"G1_1",35723,"Glass","Candidatus Desulforudis",46.3935064935065
+"G1_2",34876,"Glass","Candidatus Desulforudis",45.2935064935065
+"G1_3",31928,"Glass","Candidatus Desulforudis",41.4649350649351
+"G2_1",23165,"Glass","Candidatus Desulforudis",30.0844155844156
+"G2_2",24045,"Glass","Candidatus Desulforudis",31.2272727272727
+"G2_3",21653,"Glass","Candidatus Desulforudis",28.1207792207792
+"G3_1",6894,"Glass","Candidatus Desulforudis",8.95324675324675
+"G3_2",9099,"Glass","Candidatus Desulforudis",11.8168831168831
+"G3_3",7468,"Glass","Candidatus Desulforudis",9.6987012987013
+"G4_1",6851,"Glass","Candidatus Desulforudis",8.8974025974026
+"G4_2",6099,"Glass","Candidatus Desulforudis",7.92077922077922
+"G4_3",42405,"Glass","Candidatus Desulforudis",55.0714285714286
+"G5_1",5506,"Glass","Candidatus Desulforudis",7.15064935064935
+"G5_2",6522,"Glass","Candidatus Desulforudis",8.47012987012987
+"G5_3",6333,"Glass","Candidatus Desulforudis",8.22467532467532
+"TAn1L",7543,"Rock Anoxic","Candidatus Desulforudis",9.7961038961039
+"TAn1_1",56245,"Rock Anoxic","Candidatus Desulforudis",73.0454545454545
+"TAn1_2",58213,"Rock Anoxic","Candidatus Desulforudis",75.6012987012987
+"TAn1_3",48697,"Rock Anoxic","Candidatus Desulforudis",63.2428571428571
+"TAn2_1",49024,"Rock Anoxic","Candidatus Desulforudis",63.6675324675325
+"TAn2_2",41280,"Rock Anoxic","Candidatus Desulforudis",53.6103896103896
+"TAn2_3",42585,"Rock Anoxic","Candidatus Desulforudis",55.3051948051948
+"TAn3_1",20315,"Rock Anoxic","Candidatus Desulforudis",26.3831168831169
+"TAn3_2",51163,"Rock Anoxic","Candidatus Desulforudis",66.4454545454545
+"TAn3_3",14916,"Rock Anoxic","Candidatus Desulforudis",19.3714285714286
+"TAn4_1",9183,"Rock Anoxic","Candidatus Desulforudis",11.925974025974
+"TAn4_2",11228,"Rock Anoxic","Candidatus Desulforudis",14.5818181818182
+"TAn4_3",49913,"Rock Anoxic","Candidatus Desulforudis",64.8220779220779
+"TAn5_1",15019,"Rock Anoxic","Candidatus Desulforudis",19.5051948051948
+"TAn5_2",44556,"Rock Anoxic","Candidatus Desulforudis",57.8649350649351
+"TAn5_3",23955,"Rock Anoxic","Candidatus Desulforudis",31.1103896103896
+"TO1L",7031,"Rock Oxic","Candidatus Desulforudis",9.13116883116883
+"TO1_1",60765,"Rock Oxic","Candidatus Desulforudis",78.9155844155844
+"TO1_2",56459,"Rock Oxic","Candidatus Desulforudis",73.3233766233766
+"TO1_3",57975,"Rock Oxic","Candidatus Desulforudis",75.2922077922078
+"TO2_1",35495,"Rock Oxic","Candidatus Desulforudis",46.0974025974026
+"TO2_2",50386,"Rock Oxic","Candidatus Desulforudis",65.4363636363636
+"TO2_3",41359,"Rock Oxic","Candidatus Desulforudis",53.712987012987
+"TO3_1",12467,"Rock Oxic","Candidatus Desulforudis",16.1909090909091
+"TO3_2",13071,"Rock Oxic","Candidatus Desulforudis",16.9753246753247
+"TO3_3",14659,"Rock Oxic","Candidatus Desulforudis",19.0376623376623
+"TO4_1",11713,"Rock Oxic","Candidatus Desulforudis",15.2116883116883
+"TO4_2",11436,"Rock Oxic","Candidatus Desulforudis",14.8519480519481
+"TO4_3",9981,"Rock Oxic","Candidatus Desulforudis",12.9623376623377
+"TO5_1",14592,"Rock Oxic","Candidatus Desulforudis",18.9506493506493
+"TO5_2",14448,"Rock Oxic","Candidatus Desulforudis",18.7636363636364
+"TO5_3",17548,"Rock Oxic","Candidatus Desulforudis",22.7896103896104
+"W1L",11995,"Water","Candidatus Desulforudis",15.5779220779221
+"W1_1",36670,"Water","Candidatus Desulforudis",47.6233766233766
+"W1_2",32308,"Water","Candidatus Desulforudis",41.9584415584416
+"W1_3",31894,"Water","Candidatus Desulforudis",41.4207792207792
+"W2_1",21737,"Water","Candidatus Desulforudis",28.2298701298701
+"W2_2",19471,"Water","Candidatus Desulforudis",25.287012987013
+"W2_3",20642,"Water","Candidatus Desulforudis",26.8077922077922
+"W3_1",20745,"Water","Candidatus Desulforudis",26.9415584415584
+"W3_2",10714,"Water","Candidatus Desulforudis",13.9142857142857
+"W3_3",8909,"Water","Candidatus Desulforudis",11.5701298701299
+"W4_1",13487,"Water","Candidatus Desulforudis",17.5155844155844
+"W4_2",12652,"Water","Candidatus Desulforudis",16.4311688311688
+"W4_3",12852,"Water","Candidatus Desulforudis",16.6909090909091
+"W5_1",11628,"Water","Candidatus Desulforudis",15.1012987012987
+"W5_2",32200,"Water","Candidatus Desulforudis",41.8181818181818
+"W5_3",12613,"Water","Candidatus Desulforudis",16.3805194805195
+"t0_1",35931,"Other","Candidatus Desulforudis",46.6636363636364
+"t0_2",40047,"Other","Candidatus Desulforudis",52.0090909090909
+"t0_3",38950,"Other","Candidatus Desulforudis",50.5844155844156
+"G1L",22388,"Glass","Hydrogenophaga",29.0753246753247
+"G1_1",274,"Glass","Hydrogenophaga",0.355844155844156
+"G1_2",317,"Glass","Hydrogenophaga",0.411688311688312
+"G1_3",115,"Glass","Hydrogenophaga",0.149350649350649
+"G2_1",5137,"Glass","Hydrogenophaga",6.67142857142857
+"G2_2",5739,"Glass","Hydrogenophaga",7.45324675324675
+"G2_3",7965,"Glass","Hydrogenophaga",10.3441558441558
+"G3_1",20543,"Glass","Hydrogenophaga",26.6792207792208
+"G3_2",28026,"Glass","Hydrogenophaga",36.3974025974026
+"G3_3",19772,"Glass","Hydrogenophaga",25.6779220779221
+"G4_1",31298,"Glass","Hydrogenophaga",40.6467532467532
+"G4_2",27466,"Glass","Hydrogenophaga",35.6701298701299
+"G4_3",2794,"Glass","Hydrogenophaga",3.62857142857143
+"G5_1",16956,"Glass","Hydrogenophaga",22.0207792207792
+"G5_2",23268,"Glass","Hydrogenophaga",30.2181818181818
+"G5_3",31342,"Glass","Hydrogenophaga",40.7038961038961
+"TAn1L",28493,"Rock Anoxic","Hydrogenophaga",37.0038961038961
+"TAn1_1",191,"Rock Anoxic","Hydrogenophaga",0.248051948051948
+"TAn1_2",240,"Rock Anoxic","Hydrogenophaga",0.311688311688312
+"TAn1_3",208,"Rock Anoxic","Hydrogenophaga",0.27012987012987
+"TAn2_1",375,"Rock Anoxic","Hydrogenophaga",0.487012987012987
+"TAn2_2",1636,"Rock Anoxic","Hydrogenophaga",2.12467532467532
+"TAn2_3",10078,"Rock Anoxic","Hydrogenophaga",13.0883116883117
+"TAn3_1",35608,"Rock Anoxic","Hydrogenophaga",46.2441558441558
+"TAn3_2",1250,"Rock Anoxic","Hydrogenophaga",1.62337662337662
+"TAn3_3",32889,"Rock Anoxic","Hydrogenophaga",42.712987012987
+"TAn4_1",30434,"Rock Anoxic","Hydrogenophaga",39.5246753246753
+"TAn4_2",36761,"Rock Anoxic","Hydrogenophaga",47.7415584415584
+"TAn4_3",875,"Rock Anoxic","Hydrogenophaga",1.13636363636364
+"TAn5_1",35543,"Rock Anoxic","Hydrogenophaga",46.1597402597403
+"TAn5_2",580,"Rock Anoxic","Hydrogenophaga",0.753246753246753
+"TAn5_3",23200,"Rock Anoxic","Hydrogenophaga",30.1298701298701
+"TO1L",20262,"Rock Oxic","Hydrogenophaga",26.3142857142857
+"TO1_1",200,"Rock Oxic","Hydrogenophaga",0.25974025974026
+"TO1_2",194,"Rock Oxic","Hydrogenophaga",0.251948051948052
+"TO1_3",218,"Rock Oxic","Hydrogenophaga",0.283116883116883
+"TO2_1",10701,"Rock Oxic","Hydrogenophaga",13.8974025974026
+"TO2_2",196,"Rock Oxic","Hydrogenophaga",0.254545454545455
+"TO2_3",10709,"Rock Oxic","Hydrogenophaga",13.9077922077922
+"TO3_1",31008,"Rock Oxic","Hydrogenophaga",40.2701298701299
+"TO3_2",37454,"Rock Oxic","Hydrogenophaga",48.6415584415584
+"TO3_3",42821,"Rock Oxic","Hydrogenophaga",55.6116883116883
+"TO4_1",35193,"Rock Oxic","Hydrogenophaga",45.7051948051948
+"TO4_2",26801,"Rock Oxic","Hydrogenophaga",34.8064935064935
+"TO4_3",31274,"Rock Oxic","Hydrogenophaga",40.6155844155844
+"TO5_1",41138,"Rock Oxic","Hydrogenophaga",53.425974025974
+"TO5_2",34636,"Rock Oxic","Hydrogenophaga",44.9818181818182
+"TO5_3",34128,"Rock Oxic","Hydrogenophaga",44.3220779220779
+"W1L",32104,"Water","Hydrogenophaga",41.6935064935065
+"W1_1",444,"Water","Hydrogenophaga",0.576623376623377
+"W1_2",429,"Water","Hydrogenophaga",0.557142857142857
+"W1_3",473,"Water","Hydrogenophaga",0.614285714285714
+"W2_1",10645,"Water","Hydrogenophaga",13.8246753246753
+"W2_2",10957,"Water","Hydrogenophaga",14.2298701298701
+"W2_3",11530,"Water","Hydrogenophaga",14.974025974026
+"W3_1",123,"Water","Hydrogenophaga",0.15974025974026
+"W3_2",36237,"Water","Hydrogenophaga",47.061038961039
+"W3_3",37268,"Water","Hydrogenophaga",48.4
+"W4_1",35932,"Water","Hydrogenophaga",46.6649350649351
+"W4_2",34856,"Water","Hydrogenophaga",45.2675324675325
+"W4_3",38805,"Water","Hydrogenophaga",50.3961038961039
+"W5_1",39659,"Water","Hydrogenophaga",51.5051948051948
+"W5_2",938,"Water","Hydrogenophaga",1.21818181818182
+"W5_3",37792,"Water","Hydrogenophaga",49.0805194805195
+"t0_1",66,"Other","Hydrogenophaga",0.0857142857142857
+"t0_2",94,"Other","Hydrogenophaga",0.122077922077922
+"t0_3",76,"Other","Hydrogenophaga",0.0987012987012987
+"G1L",18283,"Glass","Alphaproteobacteria",23.7441558441558
+"G1_1",349,"Glass","Alphaproteobacteria",0.453246753246753
+"G1_2",416,"Glass","Alphaproteobacteria",0.54025974025974
+"G1_3",331,"Glass","Alphaproteobacteria",0.42987012987013
+"G2_1",1757,"Glass","Alphaproteobacteria",2.28181818181818
+"G2_2",1897,"Glass","Alphaproteobacteria",2.46363636363636
+"G2_3",1624,"Glass","Alphaproteobacteria",2.10909090909091
+"G3_1",1545,"Glass","Alphaproteobacteria",2.00649350649351
+"G3_2",5022,"Glass","Alphaproteobacteria",6.52207792207792
+"G3_3",6556,"Glass","Alphaproteobacteria",8.51428571428571
+"G4_1",13723,"Glass","Alphaproteobacteria",17.8220779220779
+"G4_2",11098,"Glass","Alphaproteobacteria",14.412987012987
+"G4_3",331,"Glass","Alphaproteobacteria",0.42987012987013
+"G5_1",23603,"Glass","Alphaproteobacteria",30.6532467532468
+"G5_2",21377,"Glass","Alphaproteobacteria",27.7623376623377
+"G5_3",19473,"Glass","Alphaproteobacteria",25.2896103896104
+"TAn1L",22052,"Rock Anoxic","Alphaproteobacteria",28.638961038961
+"TAn1_1",557,"Rock Anoxic","Alphaproteobacteria",0.723376623376623
+"TAn1_2",834,"Rock Anoxic","Alphaproteobacteria",1.08311688311688
+"TAn1_3",589,"Rock Anoxic","Alphaproteobacteria",0.764935064935065
+"TAn2_1",675,"Rock Anoxic","Alphaproteobacteria",0.876623376623377
+"TAn2_2",799,"Rock Anoxic","Alphaproteobacteria",1.03766233766234
+"TAn2_3",2366,"Rock Anoxic","Alphaproteobacteria",3.07272727272727
+"TAn3_1",2866,"Rock Anoxic","Alphaproteobacteria",3.72207792207792
+"TAn3_2",550,"Rock Anoxic","Alphaproteobacteria",0.714285714285714
+"TAn3_3",5128,"Rock Anoxic","Alphaproteobacteria",6.65974025974026
+"TAn4_1",10448,"Rock Anoxic","Alphaproteobacteria",13.5688311688312
+"TAn4_2",8901,"Rock Anoxic","Alphaproteobacteria",11.5597402597403
+"TAn4_3",466,"Rock Anoxic","Alphaproteobacteria",0.605194805194805
+"TAn5_1",16217,"Rock Anoxic","Alphaproteobacteria",21.061038961039
+"TAn5_2",269,"Rock Anoxic","Alphaproteobacteria",0.349350649350649
+"TAn5_3",1244,"Rock Anoxic","Alphaproteobacteria",1.61558441558442
+"TO1L",16808,"Rock Oxic","Alphaproteobacteria",21.8285714285714
+"TO1_1",828,"Rock Oxic","Alphaproteobacteria",1.07532467532468
+"TO1_2",736,"Rock Oxic","Alphaproteobacteria",0.955844155844156
+"TO1_3",831,"Rock Oxic","Alphaproteobacteria",1.07922077922078
+"TO2_1",3923,"Rock Oxic","Alphaproteobacteria",5.0948051948052
+"TO2_2",668,"Rock Oxic","Alphaproteobacteria",0.867532467532467
+"TO2_3",4179,"Rock Oxic","Alphaproteobacteria",5.42727272727273
+"TO3_1",3297,"Rock Oxic","Alphaproteobacteria",4.28181818181818
+"TO3_2",2368,"Rock Oxic","Alphaproteobacteria",3.07532467532468
+"TO3_3",4394,"Rock Oxic","Alphaproteobacteria",5.70649350649351
+"TO4_1",3330,"Rock Oxic","Alphaproteobacteria",4.32467532467532
+"TO4_2",3103,"Rock Oxic","Alphaproteobacteria",4.02987012987013
+"TO4_3",7230,"Rock Oxic","Alphaproteobacteria",9.38961038961039
+"TO5_1",3944,"Rock Oxic","Alphaproteobacteria",5.12207792207792
+"TO5_2",3238,"Rock Oxic","Alphaproteobacteria",4.2051948051948
+"TO5_3",3591,"Rock Oxic","Alphaproteobacteria",4.66363636363636
+"W1L",6389,"Water","Alphaproteobacteria",8.2974025974026
+"W1_1",444,"Water","Alphaproteobacteria",0.576623376623377
+"W1_2",386,"Water","Alphaproteobacteria",0.501298701298701
+"W1_3",364,"Water","Alphaproteobacteria",0.472727272727273
+"W2_1",1298,"Water","Alphaproteobacteria",1.68571428571429
+"W2_2",1139,"Water","Alphaproteobacteria",1.47922077922078
+"W2_3",1114,"Water","Alphaproteobacteria",1.44675324675325
+"W3_1",558,"Water","Alphaproteobacteria",0.724675324675325
+"W3_2",2687,"Water","Alphaproteobacteria",3.48961038961039
+"W3_3",1429,"Water","Alphaproteobacteria",1.85584415584416
+"W4_1",3824,"Water","Alphaproteobacteria",4.96623376623377
+"W4_2",3403,"Water","Alphaproteobacteria",4.41948051948052
+"W4_3",3511,"Water","Alphaproteobacteria",4.55974025974026
+"W5_1",4425,"Water","Alphaproteobacteria",5.74675324675325
+"W5_2",669,"Water","Alphaproteobacteria",0.868831168831169
+"W5_3",6014,"Water","Alphaproteobacteria",7.81038961038961
+"t0_1",254,"Other","Alphaproteobacteria",0.32987012987013
+"t0_2",252,"Other","Alphaproteobacteria",0.327272727272727
+"t0_3",251,"Other","Alphaproteobacteria",0.325974025974026
+"G1L",256,"Glass","Dethiobacteria",0.332467532467532
+"G1_1",1749,"Glass","Dethiobacteria",2.27142857142857
+"G1_2",1825,"Glass","Dethiobacteria",2.37012987012987
+"G1_3",1907,"Glass","Dethiobacteria",2.47662337662338
+"G2_1",1417,"Glass","Dethiobacteria",1.84025974025974
+"G2_2",1387,"Glass","Dethiobacteria",1.8012987012987
+"G2_3",1194,"Glass","Dethiobacteria",1.55064935064935
+"G3_1",380,"Glass","Dethiobacteria",0.493506493506494
+"G3_2",376,"Glass","Dethiobacteria",0.488311688311688
+"G3_3",352,"Glass","Dethiobacteria",0.457142857142857
+"G4_1",285,"Glass","Dethiobacteria",0.37012987012987
+"G4_2",227,"Glass","Dethiobacteria",0.294805194805195
+"G4_3",1683,"Glass","Dethiobacteria",2.18571428571429
+"G5_1",220,"Glass","Dethiobacteria",0.285714285714286
+"G5_2",281,"Glass","Dethiobacteria",0.364935064935065
+"G5_3",253,"Glass","Dethiobacteria",0.328571428571429
+"TAn1L",246,"Rock Anoxic","Dethiobacteria",0.319480519480519
+"TAn1_1",2299,"Rock Anoxic","Dethiobacteria",2.98571428571429
+"TAn1_2",2314,"Rock Anoxic","Dethiobacteria",3.00519480519481
+"TAn1_3",3443,"Rock Anoxic","Dethiobacteria",4.47142857142857
+"TAn2_1",3702,"Rock Anoxic","Dethiobacteria",4.80779220779221
+"TAn2_2",3736,"Rock Anoxic","Dethiobacteria",4.85194805194805
+"TAn2_3",2014,"Rock Anoxic","Dethiobacteria",2.61558441558442
+"TAn3_1",1540,"Rock Anoxic","Dethiobacteria",2
+"TAn3_2",2895,"Rock Anoxic","Dethiobacteria",3.75974025974026
+"TAn3_3",798,"Rock Anoxic","Dethiobacteria",1.03636363636364
+"TAn4_1",295,"Rock Anoxic","Dethiobacteria",0.383116883116883
+"TAn4_2",288,"Rock Anoxic","Dethiobacteria",0.374025974025974
+"TAn4_3",2054,"Rock Anoxic","Dethiobacteria",2.66753246753247
+"TAn5_1",390,"Rock Anoxic","Dethiobacteria",0.506493506493506
+"TAn5_2",1802,"Rock Anoxic","Dethiobacteria",2.34025974025974
+"TAn5_3",1301,"Rock Anoxic","Dethiobacteria",1.68961038961039
+"TO1L",249,"Rock Oxic","Dethiobacteria",0.323376623376623
+"TO1_1",1681,"Rock Oxic","Dethiobacteria",2.18311688311688
+"TO1_2",2235,"Rock Oxic","Dethiobacteria",2.9025974025974
+"TO1_3",2321,"Rock Oxic","Dethiobacteria",3.01428571428571
+"TO2_1",1705,"Rock Oxic","Dethiobacteria",2.21428571428571
+"TO2_2",2911,"Rock Oxic","Dethiobacteria",3.78051948051948
+"TO2_3",2540,"Rock Oxic","Dethiobacteria",3.2987012987013
+"TO3_1",546,"Rock Oxic","Dethiobacteria",0.709090909090909
+"TO3_2",610,"Rock Oxic","Dethiobacteria",0.792207792207792
+"TO3_3",815,"Rock Oxic","Dethiobacteria",1.05844155844156
+"TO4_1",584,"Rock Oxic","Dethiobacteria",0.758441558441558
+"TO4_2",438,"Rock Oxic","Dethiobacteria",0.568831168831169
+"TO4_3",352,"Rock Oxic","Dethiobacteria",0.457142857142857
+"TO5_1",793,"Rock Oxic","Dethiobacteria",1.02987012987013
+"TO5_2",835,"Rock Oxic","Dethiobacteria",1.08441558441558
+"TO5_3",574,"Rock Oxic","Dethiobacteria",0.745454545454545
+"W1L",574,"Water","Dethiobacteria",0.745454545454545
+"W1_1",1894,"Water","Dethiobacteria",2.45974025974026
+"W1_2",1775,"Water","Dethiobacteria",2.30519480519481
+"W1_3",1890,"Water","Dethiobacteria",2.45454545454545
+"W2_1",1580,"Water","Dethiobacteria",2.05194805194805
+"W2_2",1452,"Water","Dethiobacteria",1.88571428571429
+"W2_3",1412,"Water","Dethiobacteria",1.83376623376623
+"W3_1",1142,"Water","Dethiobacteria",1.48311688311688
+"W3_2",663,"Water","Dethiobacteria",0.861038961038961
+"W3_3",796,"Water","Dethiobacteria",1.03376623376623
+"W4_1",736,"Water","Dethiobacteria",0.955844155844156
+"W4_2",665,"Water","Dethiobacteria",0.863636363636364
+"W4_3",655,"Water","Dethiobacteria",0.850649350649351
+"W5_1",648,"Water","Dethiobacteria",0.841558441558442
+"W5_2",1535,"Water","Dethiobacteria",1.99350649350649
+"W5_3",753,"Water","Dethiobacteria",0.977922077922078
+"t0_1",1145,"Other","Dethiobacteria",1.48701298701299
+"t0_2",1314,"Other","Dethiobacteria",1.70649350649351
+"t0_3",1298,"Other","Dethiobacteria",1.68571428571429
+"G1L",246,"Glass","Ignavibacteria",0.319480519480519
+"G1_1",1678,"Glass","Ignavibacteria",2.17922077922078
+"G1_2",1873,"Glass","Ignavibacteria",2.43246753246753
+"G1_3",1743,"Glass","Ignavibacteria",2.26363636363636
+"G2_1",1517,"Glass","Ignavibacteria",1.97012987012987
+"G2_2",1344,"Glass","Ignavibacteria",1.74545454545455
+"G2_3",1096,"Glass","Ignavibacteria",1.42337662337662
+"G3_1",476,"Glass","Ignavibacteria",0.618181818181818
+"G3_2",531,"Glass","Ignavibacteria",0.68961038961039
+"G3_3",427,"Glass","Ignavibacteria",0.554545454545455
+"G4_1",240,"Glass","Ignavibacteria",0.311688311688312
+"G4_2",193,"Glass","Ignavibacteria",0.250649350649351
+"G4_3",773,"Glass","Ignavibacteria",1.0038961038961
+"G5_1",133,"Glass","Ignavibacteria",0.172727272727273
+"G5_2",197,"Glass","Ignavibacteria",0.255844155844156
+"G5_3",244,"Glass","Ignavibacteria",0.316883116883117
+"TAn1L",56,"Rock Anoxic","Ignavibacteria",0.0727272727272727
+"TAn1_1",470,"Rock Anoxic","Ignavibacteria",0.61038961038961
+"TAn1_2",399,"Rock Anoxic","Ignavibacteria",0.518181818181818
+"TAn1_3",749,"Rock Anoxic","Ignavibacteria",0.972727272727273
+"TAn2_1",840,"Rock Anoxic","Ignavibacteria",1.09090909090909
+"TAn2_2",858,"Rock Anoxic","Ignavibacteria",1.11428571428571
+"TAn2_3",641,"Rock Anoxic","Ignavibacteria",0.832467532467532
+"TAn3_1",523,"Rock Anoxic","Ignavibacteria",0.679220779220779
+"TAn3_2",511,"Rock Anoxic","Ignavibacteria",0.663636363636364
+"TAn3_3",234,"Rock Anoxic","Ignavibacteria",0.303896103896104
+"TAn4_1",80,"Rock Anoxic","Ignavibacteria",0.103896103896104
+"TAn4_2",137,"Rock Anoxic","Ignavibacteria",0.177922077922078
+"TAn4_3",291,"Rock Anoxic","Ignavibacteria",0.377922077922078
+"TAn5_1",85,"Rock Anoxic","Ignavibacteria",0.11038961038961
+"TAn5_2",381,"Rock Anoxic","Ignavibacteria",0.494805194805195
+"TAn5_3",432,"Rock Anoxic","Ignavibacteria",0.561038961038961
+"TO1L",54,"Rock Oxic","Ignavibacteria",0.0701298701298701
+"TO1_1",481,"Rock Oxic","Ignavibacteria",0.624675324675325
+"TO1_2",365,"Rock Oxic","Ignavibacteria",0.474025974025974
+"TO1_3",275,"Rock Oxic","Ignavibacteria",0.357142857142857
+"TO2_1",360,"Rock Oxic","Ignavibacteria",0.467532467532468
+"TO2_2",674,"Rock Oxic","Ignavibacteria",0.875324675324675
+"TO2_3",389,"Rock Oxic","Ignavibacteria",0.505194805194805
+"TO3_1",141,"Rock Oxic","Ignavibacteria",0.183116883116883
+"TO3_2",212,"Rock Oxic","Ignavibacteria",0.275324675324675
+"TO3_3",246,"Rock Oxic","Ignavibacteria",0.319480519480519
+"TO4_1",139,"Rock Oxic","Ignavibacteria",0.180519480519481
+"TO4_2",94,"Rock Oxic","Ignavibacteria",0.122077922077922
+"TO4_3",87,"Rock Oxic","Ignavibacteria",0.112987012987013
+"TO5_1",222,"Rock Oxic","Ignavibacteria",0.288311688311688
+"TO5_2",176,"Rock Oxic","Ignavibacteria",0.228571428571429
+"TO5_3",124,"Rock Oxic","Ignavibacteria",0.161038961038961
+"W1L",1110,"Water","Ignavibacteria",1.44155844155844
+"W1_1",3019,"Water","Ignavibacteria",3.92077922077922
+"W1_2",2909,"Water","Ignavibacteria",3.77792207792208
+"W1_3",3559,"Water","Ignavibacteria",4.62207792207792
+"W2_1",4114,"Water","Ignavibacteria",5.34285714285714
+"W2_2",3490,"Water","Ignavibacteria",4.53246753246753
+"W2_3",3148,"Water","Ignavibacteria",4.08831168831169
+"W3_1",4613,"Water","Ignavibacteria",5.99090909090909
+"W3_2",1754,"Water","Ignavibacteria",2.27792207792208
+"W3_3",2394,"Water","Ignavibacteria",3.10909090909091
+"W4_1",1414,"Water","Ignavibacteria",1.83636363636364
+"W4_2",1383,"Water","Ignavibacteria",1.7961038961039
+"W4_3",1295,"Water","Ignavibacteria",1.68181818181818
+"W5_1",1266,"Water","Ignavibacteria",1.64415584415584
+"W5_2",1586,"Water","Ignavibacteria",2.05974025974026
+"W5_3",887,"Water","Ignavibacteria",1.15194805194805
+"t0_1",2987,"Other","Ignavibacteria",3.87922077922078
+"t0_2",2720,"Other","Ignavibacteria",3.53246753246753
+"t0_3",2824,"Other","Ignavibacteria",3.66753246753247
+"G1L",233,"Glass","TSAC18",0.302597402597403
+"G1_1",1874,"Glass","TSAC18",2.43376623376623
+"G1_2",1787,"Glass","TSAC18",2.32077922077922
+"G1_3",2256,"Glass","TSAC18",2.92987012987013
+"G2_1",1825,"Glass","TSAC18",2.37012987012987
+"G2_2",2113,"Glass","TSAC18",2.74415584415584
+"G2_3",1280,"Glass","TSAC18",1.66233766233766
+"G3_1",585,"Glass","TSAC18",0.75974025974026
+"G3_2",466,"Glass","TSAC18",0.605194805194805
+"G3_3",489,"Glass","TSAC18",0.635064935064935
+"G4_1",494,"Glass","TSAC18",0.641558441558442
+"G4_2",321,"Glass","TSAC18",0.416883116883117
+"G4_3",1992,"Glass","TSAC18",2.58701298701299
+"G5_1",220,"Glass","TSAC18",0.285714285714286
+"G5_2",295,"Glass","TSAC18",0.383116883116883
+"G5_3",372,"Glass","TSAC18",0.483116883116883
+"TAn1L",215,"Rock Anoxic","TSAC18",0.279220779220779
+"TAn1_1",2377,"Rock Anoxic","TSAC18",3.08701298701299
+"TAn1_2",2195,"Rock Anoxic","TSAC18",2.85064935064935
+"TAn1_3",3030,"Rock Anoxic","TSAC18",3.93506493506493
+"TAn2_1",4264,"Rock Anoxic","TSAC18",5.53766233766234
+"TAn2_2",4692,"Rock Anoxic","TSAC18",6.09350649350649
+"TAn2_3",2913,"Rock Anoxic","TSAC18",3.78311688311688
+"TAn3_1",1576,"Rock Anoxic","TSAC18",2.04675324675325
+"TAn3_2",3945,"Rock Anoxic","TSAC18",5.12337662337662
+"TAn3_3",872,"Rock Anoxic","TSAC18",1.13246753246753
+"TAn4_1",429,"Rock Anoxic","TSAC18",0.557142857142857
+"TAn4_2",464,"Rock Anoxic","TSAC18",0.602597402597403
+"TAn4_3",2520,"Rock Anoxic","TSAC18",3.27272727272727
+"TAn5_1",764,"Rock Anoxic","TSAC18",0.992207792207792
+"TAn5_2",1417,"Rock Anoxic","TSAC18",1.84025974025974
+"TAn5_3",1472,"Rock Anoxic","TSAC18",1.91168831168831
+"TO1L",360,"Rock Oxic","TSAC18",0.467532467532468
+"TO1_1",1908,"Rock Oxic","TSAC18",2.47792207792208
+"TO1_2",2078,"Rock Oxic","TSAC18",2.6987012987013
+"TO1_3",2621,"Rock Oxic","TSAC18",3.4038961038961
+"TO2_1",1757,"Rock Oxic","TSAC18",2.28181818181818
+"TO2_2",4045,"Rock Oxic","TSAC18",5.25324675324675
+"TO2_3",2792,"Rock Oxic","TSAC18",3.62597402597403
+"TO3_1",745,"Rock Oxic","TSAC18",0.967532467532468
+"TO3_2",1019,"Rock Oxic","TSAC18",1.32337662337662
+"TO3_3",1186,"Rock Oxic","TSAC18",1.54025974025974
+"TO4_1",826,"Rock Oxic","TSAC18",1.07272727272727
+"TO4_2",448,"Rock Oxic","TSAC18",0.581818181818182
+"TO4_3",478,"Rock Oxic","TSAC18",0.620779220779221
+"TO5_1",996,"Rock Oxic","TSAC18",1.29350649350649
+"TO5_2",936,"Rock Oxic","TSAC18",1.21558441558442
+"TO5_3",720,"Rock Oxic","TSAC18",0.935064935064935
+"W1L",583,"Water","TSAC18",0.757142857142857
+"W1_1",1488,"Water","TSAC18",1.93246753246753
+"W1_2",1462,"Water","TSAC18",1.8987012987013
+"W1_3",1679,"Water","TSAC18",2.18051948051948
+"W2_1",1128,"Water","TSAC18",1.46493506493506
+"W2_2",1133,"Water","TSAC18",1.47142857142857
+"W2_3",1286,"Water","TSAC18",1.67012987012987
+"W3_1",901,"Water","TSAC18",1.17012987012987
+"W3_2",578,"Water","TSAC18",0.750649350649351
+"W3_3",663,"Water","TSAC18",0.861038961038961
+"W4_1",716,"Water","TSAC18",0.92987012987013
+"W4_2",524,"Water","TSAC18",0.680519480519481
+"W4_3",607,"Water","TSAC18",0.788311688311688
+"W5_1",811,"Water","TSAC18",1.05324675324675
+"W5_2",1153,"Water","TSAC18",1.4974025974026
+"W5_3",648,"Water","TSAC18",0.841558441558442
+"t0_1",1583,"Other","TSAC18",2.05584415584416
+"t0_2",1964,"Other","TSAC18",2.55064935064935
+"t0_3",1749,"Other","TSAC18",2.27142857142857
+"G1L",187,"Glass","Thermoanaerobacteria",0.242857142857143
+"G1_1",1243,"Glass","Thermoanaerobacteria",1.61428571428571
+"G1_2",1000,"Glass","Thermoanaerobacteria",1.2987012987013
+"G1_3",1339,"Glass","Thermoanaerobacteria",1.73896103896104
+"G2_1",1124,"Glass","Thermoanaerobacteria",1.45974025974026
+"G2_2",1113,"Glass","Thermoanaerobacteria",1.44545454545455
+"G2_3",721,"Glass","Thermoanaerobacteria",0.936363636363636
+"G3_1",314,"Glass","Thermoanaerobacteria",0.407792207792208
+"G3_2",245,"Glass","Thermoanaerobacteria",0.318181818181818
+"G3_3",237,"Glass","Thermoanaerobacteria",0.307792207792208
+"G4_1",209,"Glass","Thermoanaerobacteria",0.271428571428571
+"G4_2",141,"Glass","Thermoanaerobacteria",0.183116883116883
+"G4_3",1079,"Glass","Thermoanaerobacteria",1.4012987012987
+"G5_1",130,"Glass","Thermoanaerobacteria",0.168831168831169
+"G5_2",129,"Glass","Thermoanaerobacteria",0.167532467532468
+"G5_3",157,"Glass","Thermoanaerobacteria",0.203896103896104
+"TAn1L",153,"Rock Anoxic","Thermoanaerobacteria",0.198701298701299
+"TAn1_1",1673,"Rock Anoxic","Thermoanaerobacteria",2.17272727272727
+"TAn1_2",1603,"Rock Anoxic","Thermoanaerobacteria",2.08181818181818
+"TAn1_3",2994,"Rock Anoxic","Thermoanaerobacteria",3.88831168831169
+"TAn2_1",2205,"Rock Anoxic","Thermoanaerobacteria",2.86363636363636
+"TAn2_2",3737,"Rock Anoxic","Thermoanaerobacteria",4.85324675324675
+"TAn2_3",1792,"Rock Anoxic","Thermoanaerobacteria",2.32727272727273
+"TAn3_1",1041,"Rock Anoxic","Thermoanaerobacteria",1.35194805194805
+"TAn3_2",1959,"Rock Anoxic","Thermoanaerobacteria",2.54415584415584
+"TAn3_3",630,"Rock Anoxic","Thermoanaerobacteria",0.818181818181818
+"TAn4_1",190,"Rock Anoxic","Thermoanaerobacteria",0.246753246753247
+"TAn4_2",240,"Rock Anoxic","Thermoanaerobacteria",0.311688311688312
+"TAn4_3",1494,"Rock Anoxic","Thermoanaerobacteria",1.94025974025974
+"TAn5_1",284,"Rock Anoxic","Thermoanaerobacteria",0.368831168831169
+"TAn5_2",894,"Rock Anoxic","Thermoanaerobacteria",1.16103896103896
+"TAn5_3",983,"Rock Anoxic","Thermoanaerobacteria",1.27662337662338
+"TO1L",198,"Rock Oxic","Thermoanaerobacteria",0.257142857142857
+"TO1_1",2135,"Rock Oxic","Thermoanaerobacteria",2.77272727272727
+"TO1_2",1828,"Rock Oxic","Thermoanaerobacteria",2.37402597402597
+"TO1_3",1421,"Rock Oxic","Thermoanaerobacteria",1.84545454545455
+"TO2_1",1487,"Rock Oxic","Thermoanaerobacteria",1.93116883116883
+"TO2_2",3096,"Rock Oxic","Thermoanaerobacteria",4.02077922077922
+"TO2_3",1078,"Rock Oxic","Thermoanaerobacteria",1.4
+"TO3_1",455,"Rock Oxic","Thermoanaerobacteria",0.590909090909091
+"TO3_2",605,"Rock Oxic","Thermoanaerobacteria",0.785714285714286
+"TO3_3",676,"Rock Oxic","Thermoanaerobacteria",0.877922077922078
+"TO4_1",451,"Rock Oxic","Thermoanaerobacteria",0.585714285714286
+"TO4_2",346,"Rock Oxic","Thermoanaerobacteria",0.449350649350649
+"TO4_3",330,"Rock Oxic","Thermoanaerobacteria",0.428571428571429
+"TO5_1",612,"Rock Oxic","Thermoanaerobacteria",0.794805194805195
+"TO5_2",621,"Rock Oxic","Thermoanaerobacteria",0.806493506493506
+"TO5_3",433,"Rock Oxic","Thermoanaerobacteria",0.562337662337662
+"W1L",540,"Water","Thermoanaerobacteria",0.701298701298701
+"W1_1",1335,"Water","Thermoanaerobacteria",1.73376623376623
+"W1_2",1416,"Water","Thermoanaerobacteria",1.83896103896104
+"W1_3",1427,"Water","Thermoanaerobacteria",1.85324675324675
+"W2_1",1231,"Water","Thermoanaerobacteria",1.5987012987013
+"W2_2",1094,"Water","Thermoanaerobacteria",1.42077922077922
+"W2_3",1038,"Water","Thermoanaerobacteria",1.34805194805195
+"W3_1",667,"Water","Thermoanaerobacteria",0.866233766233766
+"W3_2",481,"Water","Thermoanaerobacteria",0.624675324675325
+"W3_3",742,"Water","Thermoanaerobacteria",0.963636363636364
+"W4_1",556,"Water","Thermoanaerobacteria",0.722077922077922
+"W4_2",588,"Water","Thermoanaerobacteria",0.763636363636364
+"W4_3",459,"Water","Thermoanaerobacteria",0.596103896103896
+"W5_1",595,"Water","Thermoanaerobacteria",0.772727272727273
+"W5_2",1125,"Water","Thermoanaerobacteria",1.46103896103896
+"W5_3",466,"Water","Thermoanaerobacteria",0.605194805194805
+"t0_1",1298,"Other","Thermoanaerobacteria",1.68571428571429
+"t0_2",1258,"Other","Thermoanaerobacteria",1.63376623376623
+"t0_3",1089,"Other","Thermoanaerobacteria",1.41428571428571
