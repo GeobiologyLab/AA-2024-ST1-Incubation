@@ -32,9 +32,9 @@ library(ggh4x)
 # Initial phyloseq object creation
 
 # dada0 and seqtab.nochim
-da <- load("dada2_May2.Rdata")
+da <- load("../data/dada2_May2.Rdata")
 # annotations
-da2 <- load("dada2_May2_annotations.Rdata")
+da2 <- load("../data/dada2_May2_annotations.Rdata")
 
 theme_set(theme_bw())
 
@@ -44,10 +44,10 @@ samdf <- data.frame(matrix(NA, nrow=75, ncol=2))
 colnames(samdf)[1] <- "ID"
 colnames(samdf)[2] <- "Sample_or_Control"
 
-samplenames <- read.csv("samplenames.csv", header=F)
-samplenames2 <- read.csv("samplenames2.csv", header=F)
-expnames <- read.csv("expnames.csv", header=F)
-timepoints <- read.csv("timepoints.csv", header=T)
+samplenames <- read.csv("../data/samplenames.csv", header=F)
+samplenames2 <- read.csv("../data/samplenames2.csv", header=F)
+expnames <- read.csv("../data/expnames.csv", header=F)
+timepoints <- read.csv("../data/timepoints.csv", header=T)
 
 data_string <- as.character(samplenames$V1)
 rownames(seqtab.nochim) <- data_string
@@ -171,7 +171,7 @@ sample_names(ps_rare_no1L)
 ############ FIGURE 3.1 - Microbial Dynamics during Incubation ###########
 
 ############A###########
-dataTrip <- read.csv("IncubationResultsTrips.csv", sep = ";")
+dataTrip <- read.csv("../data/IncubationResultsTrips.csv", sep = ";")
 
 # Replace negative values with the small positive value
 dataTrip_mod <- dataTrip %>% mutate(H2O2 = ifelse(H2O2 < 0, 0.00625, H2O2))
@@ -690,7 +690,7 @@ ggplot(percent_change_long, aes(x = Sample, y = Genus, fill = LogPercentChange))
 
 ########### FIGURE 3.4 - Growth of selected organisms ###########
 
-max <- read.csv("copyno3.csv", sep = ",")
+max <- read.csv("../data/copyno3.csv", sep = ",")
 max$Time <- factor(max$Time, levels = c("0","24","Max"))
 max$Treatment <- factor(max$Treatment, levels = c("Water","Glass","Rock Anoxic", "Rock Oxic"))
 
@@ -950,7 +950,7 @@ ggplot(functions_long2, aes(x = organism, y = pathway, fill = pathway)) +
 ########### FIGURE S.1.2 - Hydrochemistry ###########
 
 ###########A###########
-dataTrip <- read.csv("IncubationResultsTrips.csv", sep = ";")
+dataTrip <- read.csv("../data/IncubationResultsTrips.csv", sep = ";")
 dataTrip_no1L <- dataTrip[c(1:63),]
 
 cbPalette <- c("#FFCC00", "#56B4E9", "#009E73","#CC0000", "#990099")
@@ -1021,7 +1021,7 @@ ggplot(dataTrip_no1L, aes(x = Name, y = ORP, fill = Experiment, group = Sample))
   coord_cartesian(ylim = c(-180, -100))
 
 ###########D###########
-sulf <- read.csv("sulfate.csv", sep = ",")
+sulf <- read.csv("../data/sulfate.csv", sep = ",")
 sulf_no1L <- sulf[-c(7,13,19,25),]
 cbPalette <- c("#FFCC00", "#56B4E9", "#009E73","#CC0000", "#990099" )
 
