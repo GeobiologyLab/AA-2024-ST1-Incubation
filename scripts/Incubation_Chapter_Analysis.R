@@ -319,10 +319,17 @@ tax_data <- as.data.frame(tax_table(ps_rare))
 # Merge OTU data with taxonomic information
 merged_data <- cbind(otu_data, tax_data)
 merged_data <- merged_data[,-68]
-target_asv <- "GACAGAGGTGGCAAGCGTTGTTCGGAATTACTGGGCTTAAAGGGCGCGTAGGTGTTCTGACAAGTCAGGTGTGGAAGCTTCCCGCTTAACGGGAAAATTGCATCTGAAACTGTCAGGATTGAGTCAGCGAGGGGATGGCGGAATTCCAGGTGTAGCGGTGAAATGCGTAGATATCTGGAGGAAGGCCGGTGGCGAAGGCGGCCATCTGGCGCTGAACTGACACTGAGGCGCGAAAGCGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCCTAAACGGTGGGTACTAGGTGTAGGGCTCGCAAGGGTTCTGTGCCGCAGGGAAACCATTAAGTACCCCGCCTGGGGAGTACGGCCGCAAGGTTG"
-# Rename the Genus column for the row that matches the ASV
-merged_data[target_asv, "Genus"] <- "Unclassified Thermodesulfovibrionia"
-merged_data <- pivot_longer(merged_data, cols = -c(Phylum, Class, Order, Family, Genus), names_to = "Sample", values_to = "Abundance")
+
+# Rename the Genus column for rows where Class is "Thermodesulfovibrionia"
+merged_data <- merged_data %>%
+  mutate(Genus = ifelse(Class == "Thermodesulfovibrionia", 
+                        "Unclassified Thermodesulfovibrionia", 
+                        Genus))
+merged_data <- merged_data %>%
+  pivot_longer(cols = -c(Phylum, Class, Order, Family, Genus), 
+               names_to = "Sample", 
+               values_to = "Abundance")
+
 
 # Convert Abundance to numeric
 merged_data$Abundance <- as.numeric(as.character(merged_data$Abundance))
