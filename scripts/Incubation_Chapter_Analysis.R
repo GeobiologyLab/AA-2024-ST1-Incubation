@@ -285,7 +285,16 @@ desired_order <- c(
   "TAn4_2", "TAn4_3", "TAn5_1", "TAn5_2", "TAn5_3",
   "TAn1L")
 
+# Calculate distance matrix (e.g., Bray-Curtis dissimilarity, presence/absence)
+dist_matrix2 <- vegdist(otu_matrix, binary=T, method = "bray")
+
+# Convert the distance matrix to a long format
+distance_df <- as.data.frame(as.matrix(dist_matrix2))
+distance_df$Sample1 <- rownames(distance_df)
+distance_long <- melt(distance_df, id.vars = "Sample1", variable.name = "Sample2", value.name = "Distance")
+
 # Apply the desired order to the 'Sample' column in both datasets
+
 distance_long$Sample1 <- factor(distance_long$Sample1, levels = desired_order)
 
 # Function to determine Type based on Sample name prefixes
@@ -310,6 +319,9 @@ tax_data <- as.data.frame(tax_table(ps_rare))
 # Merge OTU data with taxonomic information
 merged_data <- cbind(otu_data, tax_data)
 merged_data <- merged_data[,-68]
+target_asv <- "GACAGAGGTGGCAAGCGTTGTTCGGAATTACTGGGCTTAAAGGGCGCGTAGGTGTTCTGACAAGTCAGGTGTGGAAGCTTCCCGCTTAACGGGAAAATTGCATCTGAAACTGTCAGGATTGAGTCAGCGAGGGGATGGCGGAATTCCAGGTGTAGCGGTGAAATGCGTAGATATCTGGAGGAAGGCCGGTGGCGAAGGCGGCCATCTGGCGCTGAACTGACACTGAGGCGCGAAAGCGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCCTAAACGGTGGGTACTAGGTGTAGGGCTCGCAAGGGTTCTGTGCCGCAGGGAAACCATTAAGTACCCCGCCTGGGGAGTACGGCCGCAAGGTTG"
+# Rename the Genus column for the row that matches the ASV
+merged_data[target_asv, "Genus"] <- "Unclassified Thermodesulfovibrionia"
 merged_data <- pivot_longer(merged_data, cols = -c(Phylum, Class, Order, Family, Genus), names_to = "Sample", values_to = "Abundance")
 
 # Convert Abundance to numeric
@@ -323,7 +335,7 @@ genera_data <- merged_data %>%
   mutate(Type = sapply(Sample, getType))  
 
 # Identifying taxa of interest and top taxa
-taxa_of_interest <- c("Candidatus Desulforudis", "Hydrogenophaga", "Thermodesulfovibrionia")
+taxa_of_interest <- c("Candidatus Desulforudis", "Hydrogenophaga", "Unclassified Thermodesulfovibrionia")
 top_genera <- genera_data %>%
   filter(!Genus %in% taxa_of_interest) %>%
   group_by(Genus) %>%
@@ -390,7 +402,7 @@ thiobacillus <- genera_data_no1L %>%
 
 
 # Genera
-ggplot(genera_data_no1L_1, aes(x = Sample, y = RelativeAbundance, fill = Taxonomy)) +
+ggplot(genera_data_no1L, aes(x = Sample, y = RelativeAbundance, fill = Taxonomy)) +
   geom_bar(stat = "identity", position = position_stack(reverse = TRUE)) +
   scale_fill_manual(values = c25genera) +
   facet_wrap(~Type, scales="free_x", nrow=1) +
